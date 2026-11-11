@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-antonio-jesuz",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "nuxt": "^3.14.0",
+    "vue": "latest",
+    "lucide-vue-next": "^0.460.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.0"
+  }
+}
